@@ -5,3 +5,4 @@ index file is created
 css file is created
 
 h1 tag is added
+js script file is added
